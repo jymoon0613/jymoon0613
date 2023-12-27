@@ -27,7 +27,7 @@ SimFLE: Simple Facial Landmark Encoding for Self-Supervised Facial Expression Re
 - **Jiyong Moon**, Hyeryung Jang, and Seongsik Park
 - Under review in *IEEE Transactions on Affective Computing*
 
-Robust visual detection of brake-lights in front for commercialized dashboard camera [[doi](https://doi.org/10.1371/journal.pone.0289700)]
+Robust Visual Detection of Brake-Lights in front for Commercialized Dashboard Camera [[doi](https://doi.org/10.1371/journal.pone.0289700)]
 - **Jiyong Moon** and Seongsik Park
 - *PLOS ONE*, 2023
 
