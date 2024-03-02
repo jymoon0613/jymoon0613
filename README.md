@@ -13,9 +13,12 @@
 - Deep learning, computer vision, self-supervised learning
 
 ## 📕 Education
-- B.S. in Business Administration, Dongguk University, Seoul, Korea
-- B.S. in Convergence Software, Dongguk University, Seoul, Korea (double major)
-- M.S. in Artificial Intelligence, Dongguk University, Seoul, Korea
+- [2016.03 - 2022.02] B.S. in Business Administration, Dongguk University, Seoul, Korea
+- [2016.03 - 2022.02] B.S. in Convergence Software, Dongguk University, Seoul, Korea (double major)
+- [2022.03 - 2024.02] M.S. in Artificial Intelligence, Dongguk University, Seoul, Korea
+
+## 🔎 Work Experience
+- [2022.01 - Present] Software Engineer, Samsung Electronics DX, Suwon, Korea
 
 ## 📋 Publications
 ### Journal
@@ -52,6 +55,7 @@ Analysis of Relation between Generative Model for Restoration of Occlusion Situa
 ## ⚒️ Tech Stack
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> 
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"> 
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> 
