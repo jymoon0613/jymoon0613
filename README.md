@@ -18,7 +18,7 @@
 - [2022.03 - 2024.02] M.S. in Artificial Intelligence, Dongguk University, Seoul, Korea
 
 ## 👜 Work Experience
-- [2022.01 - Present] Software Engineer, Samsung Electronics DX, Suwon, Korea
+- [2022.01 - Present] AI Software Engineer, Samsung Electronics DX, Suwon, Korea
 
 ## 📋 Publications
 ### Journal
