@@ -36,7 +36,7 @@ Robust Visual Detection of Brake-Lights in front for Commercialized Dashboard Ca
 
 Automatic Voltage Stabilization System for Substation Using Deep Learning [[doi](https://doi.org/10.2298/CSIS220509050M)] [[repo](https://github.com/jymoon0613/avss)]
 - **Jiyong Moon**, Minyeong Son, Byeongchan Oh, Jeongpil Jin, and Younsoon Shin
-- *Computer Science and Information Systems*, 2023
+- *Computer Science and Information Systems*, 2024
 
 ### Refereed Conference
 Development of Automatic Voltage Stabilization System for Substation Using Deep Learning [[doi](https://doi.org/10.1007/978-981-19-4132-0_14)] [[repo](https://github.com/jymoon0613/avss)]
