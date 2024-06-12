@@ -50,7 +50,7 @@ Combining Contrastive Learning and Destruction/Construction Learning for Trainin
 
 Analysis of Relation between Generative Model for Restoration of Occlusion Situation and Batch Sizes
 - Yunju Lee, **Jiyong Moon**, and Seongsik Park
-- Korea Robotics Society Annual Conference, 2023 (KRoC 2023)
+- *Korea Robotics Society Annual Conference*, 2023 (KRoC 2023)
 
 ## ⚒️ Tech Stack
 <div style="display:flex; flex-direction:row;">
