@@ -13,7 +13,7 @@
 - Deep learning, computer vision, self-supervised learning
 
 ## 📕 Education
-- [2016.03 - 2022.02] B.S. in Business Administration, Dongguk University, Seoul, Korea
+- [2016.03 - 2022.02] B.A. in Business Administration, Dongguk University, Seoul, Korea
 - [2016.03 - 2022.02] B.S. in Convergence Software, Dongguk University, Seoul, Korea (double major)
 - [2022.03 - 2024.02] M.S. in Artificial Intelligence, Dongguk University, Seoul, Korea
 
