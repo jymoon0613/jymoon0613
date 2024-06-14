@@ -44,7 +44,7 @@ Development of Automatic Voltage Stabilization System for Substation Using Deep 
 - *International Conference on Innovative Computing*, 2022 (IC 2022)
 
 ### Domestic
-Combining Contrastive Learning and Destruction/Construction Learning for Training Facial Expression Recognition Models
+Combining Contrastive Learning and Destruction/Construction Learning for Training Facial Expression Recognition Models [[url](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11488282)]
 - **Jiyong Moon** and Seongsik Park
 - *Korea Computer Congress*, 2023 (KCC 2023)
 
