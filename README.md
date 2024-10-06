@@ -30,13 +30,13 @@ M2Former: Multi-Scale Patch Selection for Fine-Grained Visual Recognition [[doi]
 - **Jiyong Moon** and Seongsik Park
 - *Applied Sciences*, 2024
 
-Robust Visual Detection of Brake-Lights in front for Commercialized Dashboard Camera [[doi](https://doi.org/10.1371/journal.pone.0289700)]
-- **Jiyong Moon** and Seongsik Park
-- *PLOS ONE*, 2023
-
 Automatic Voltage Stabilization System for Substation Using Deep Learning [[doi](https://doi.org/10.2298/CSIS220509050M)] [[repo](https://github.com/jymoon0613/avss)]
 - **Jiyong Moon**, Minyeong Son, Byeongchan Oh, Jeongpil Jin, and Younsoon Shin
 - *Computer Science and Information Systems*, 2024
+
+Robust Visual Detection of Brake-Lights in front for Commercialized Dashboard Camera [[doi](https://doi.org/10.1371/journal.pone.0289700)]
+- **Jiyong Moon** and Seongsik Park
+- *PLOS ONE*, 2023
 
 ### Refereed Conference
 Development of Automatic Voltage Stabilization System for Substation Using Deep Learning [[doi](https://doi.org/10.1007/978-981-19-4132-0_14)] [[repo](https://github.com/jymoon0613/avss)]
