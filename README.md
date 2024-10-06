@@ -27,7 +27,7 @@ SimFLE: Simple Facial Landmark Encoding for Self-Supervised Facial Expression Re
 - Under review in *IEEE Transactions on Affective Computing*
 
 M2Former: Multi-Scale Patch Selection for Fine-Grained Visual Recognition [[doi](https://doi.org/10.3390/app14198710)] [[repo](https://github.com/jymoon0613/m2former)]
-- **Jiyong Moon**, Junseok Lee, Yunju Lee, and Seongsik Park
+- **Jiyong Moon** and Seongsik Park
 - *Applied Sciences*, 2024
 
 Robust Visual Detection of Brake-Lights in front for Commercialized Dashboard Camera [[doi](https://doi.org/10.1371/journal.pone.0289700)]
