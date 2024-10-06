@@ -22,13 +22,13 @@
 
 ## 📋 Publications
 ### Journal
-M2Former: Multi-Scale Patch Selection for Fine-Grained Visual Recognition [[arxiv](https://arxiv.org/abs/2308.02161)] [[repo](https://github.com/jymoon0613/m2former)]
-- **Jiyong Moon**, Junseok Lee, Yunju Lee, and Seongsik Park
-- Under review in *Neurocomputing*
-
 SimFLE: Simple Facial Landmark Encoding for Self-Supervised Facial Expression Recognition in the Wild [[arxiv](https://arxiv.org/abs/2303.07648)] [[repo](https://github.com/jymoon0613/simfle)]
 - **Jiyong Moon**, Hyeryung Jang, and Seongsik Park
 - Under review in *IEEE Transactions on Affective Computing*
+
+M2Former: Multi-Scale Patch Selection for Fine-Grained Visual Recognition [[doi](https://doi.org/10.3390/app14198710)] [[repo](https://github.com/jymoon0613/m2former)]
+- **Jiyong Moon**, Junseok Lee, Yunju Lee, and Seongsik Park
+- *Applied Sciences*, 2024
 
 Robust Visual Detection of Brake-Lights in front for Commercialized Dashboard Camera [[doi](https://doi.org/10.1371/journal.pone.0289700)]
 - **Jiyong Moon** and Seongsik Park
