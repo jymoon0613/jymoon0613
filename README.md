@@ -22,9 +22,9 @@
 
 ## 📋 Publications
 ### Journal
-SimFLE: Simple Facial Landmark Encoding for Self-Supervised Facial Expression Recognition in the Wild [[arxiv](https://arxiv.org/abs/2303.07648)] [[repo](https://github.com/jymoon0613/simfle)]
+SimFLE: Simple Facial Landmark Encoding for Self-Supervised Facial Expression Recognition in the Wild [[doi](https://doi.org/10.1109/TAFFC.2024.3470980)] [[repo](https://github.com/jymoon0613/simfle)]
 - **Jiyong Moon**, Hyeryung Jang, and Seongsik Park
-- Accepted in *IEEE Transactions on Affective Computing*
+- *IEEE Transactions on Affective Computing*, 2024
 
 M2Former: Multi-Scale Patch Selection for Fine-Grained Visual Recognition [[doi](https://doi.org/10.3390/app14198710)] [[repo](https://github.com/jymoon0613/m2former)]
 - **Jiyong Moon** and Seongsik Park
